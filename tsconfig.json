@@ -1,0 +1,11 @@
+{
+"compilerOptions":{
+"jsx":"preserve",
+"module":"esnext",
+"moduleResolution":"bundler",
+"noEmit":true,
+"strict":false,
+"skipLibCheck":true
+},
+"include":["next-env.d.ts","**/*.ts","**/*.tsx"]
+}
